@@ -47,5 +47,5 @@ You are encouraged to generate your own version of the **5G Mobile Communication
 
 You can download a sample document below to get started:
 
-➡️ [Download: 4.5G MCS TVG.pdf](./Sample_04.5GMCSTVG.pdf)  
+➡️ [Download: 5.5G MCS TVG.pdf](./Sample_05.5GMCSTVG.pdf)  
 *Please replace the link above with the actual URL if needed.*
